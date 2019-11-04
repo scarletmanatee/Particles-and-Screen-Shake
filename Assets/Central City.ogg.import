@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Central City.ogg-932fcb3b65f42070806823dbb19b4472.oggstr"
+
+[deps]
+
+source_file="res://Assets/Central City.ogg"
+dest_files=[ "res://.import/Central City.ogg-932fcb3b65f42070806823dbb19b4472.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
